@@ -1,0 +1,59 @@
+Programming - The right instructions and the correct sequence is important to get the desired result, avoid bugs and system crash. Programming is specific and sequential. Converting ideas into instructions that a computer can understand.
+
+Programming language - Unique Syntax and Semantics.
+
+Source Code - Instructions we have for the computers.
+
+File extensions - Source code is written in a file. Each programming language has its own file extensions.
+
+Compiler - Convert High level language into executables known as machine understanding low level codes.
+
+Interpreter - Process the code each time line by line.
+
+Integrated Development Environment - Provide features to write, debug and compile code.
+
+Statements - Building blocks of a program. Without statement there is no program. Each statement is made up of Keyword, Expression, Operator.
+
+Error Categories:- Syntax Error - language rules broken; Runtime - unable to execute; Semantic - Unexpected output.
+
+Variable - Container for a value. Computer gives its memory space to store a variable and reference it later.
+
+Datatype - Allows us to put variables in a particular category so computer knows how much space it has to give us in its memory.
+
+Conditional expression - Any expression that breaks down to either true or false.
+
+Function is a block of code packaged together.
+
+void keyword mean when it is specified before a function definition doesn't return a value.
+
+Return keyword is used to send back values from a function.
+
+Collection - Grouping multiple items together and storing it in a single name known a variable. Use a code structure to indicate that multiple pieces of data are related. Avoid creating potentially huge variables. Offers simplified syntax.
+
+Dictionary data lets you store related information. It is referenced by 'label' not 'index'. They are associative arrays, maps, tables. The values can be changed. They accept data of different datatypes.
+
+For loop: specifies a variable name that we can use in each iteration of the loop to reference the current value.
+
+IN - what follows is the set of values that we want to iterate through.
+
+WHILE - loop iterates until the condition is true.
+
+MODULE - The most basic type of shared code. It is a file that contains code with variables and functions.
+
+PACKAGE - Using multiple modules together so they are distributed and used in a group.
+
+FRAMEWORK - When a set of code is not just used together but used in a specific way. You customize it for your usecase.
+
+CONCATENATION - When multiple strings are combined together in a single string.
+
+FINDING TEXT - .find() .index() .rfind() .rindex()
+
+SLICING - getting part of a sting value. string[start:end]
+
+OOP - Makes a program into a smaller parts known as objects. Each object has attributes and behaviours. Each behaviour is something an object can do. Attributes are Properties. Behaviours are Methods. You create object using blueprint of a Class. Class describes types of behaviours and attributes an object should have. You can create multiple objects from a same Class.
+
+_init_ --- Constructor function. To specify what happens when I use the class in my code.
+
+Memory management - Code that decides what's kept in memory and what's thrown away. Garbage Collection is automatic memory management.
+
+Multithreading - Structure your code to execute tasks simultaneously.
